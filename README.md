@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/nellimonix/nellimonix/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nellimonix/nellimonix/blob/output/github-contribution-grid-snake.svg)
